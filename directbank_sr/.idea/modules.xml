@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/Interface_shangrao/InterfaceTest/.idea/InterfaceTest.iml" filepath="E:/Interface_shangrao/InterfaceTest/.idea/InterfaceTest.iml" />
+      <module fileurl="file://E:/mine/python/createUser/.idea/createUser.iml" filepath="E:/mine/python/createUser/.idea/createUser.iml" />
+      <module fileurl="file://E:/dbank/.idea/dbank.iml" filepath="E:/dbank/.idea/dbank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/directbank_sr.iml" filepath="$PROJECT_DIR$/.idea/directbank_sr.iml" />
+      <module fileurl="file://E:/mine/python/yoyojiekou/.idea/yoyojiekou.iml" filepath="E:/mine/python/yoyojiekou/.idea/yoyojiekou.iml" />
+    </modules>
+  </component>
+</project>

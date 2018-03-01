@@ -1,0 +1,136 @@
+[2018-01-18 13:27:22,102] - logger.py] - INFO: æ‰“å°dataçš„å€¼:[Fiddler] The connection to '172.24.5.99' failed. <br />Error: TimedOut (0x274c). <br />System.Net.Sockets.SocketException ç”±äºè¿æ¥æ–¹åœ¨ä¸€æ®µæ—¶é—´åæ²¡æœ‰æ­£ç¡®ç­”å¤æˆ–è¿æ¥çš„ä¸»æœºæ²¡æœ‰ååº”ï¼Œè¿æ¥å°è¯•å¤±è´¥ã€‚ 172.24.5.99:8002                                                                                                                                                                                                                                                                                                                                                 
+[2018-01-18 13:27:22,108] - logger.py] - INFO: ------pass!---------
+[2018-01-18 13:33:23,822] - logger.py] - INFO: æ‰“å°dataçš„å€¼:[Fiddler] The connection to '172.24.5.99' failed. <br />Error: TimedOut (0x274c). <br />System.Net.Sockets.SocketException ç”±äºè¿æ¥æ–¹åœ¨ä¸€æ®µæ—¶é—´åæ²¡æœ‰æ­£ç¡®ç­”å¤æˆ–è¿æ¥çš„ä¸»æœºæ²¡æœ‰ååº”ï¼Œè¿æ¥å°è¯•å¤±è´¥ã€‚ 172.24.5.99:8002                                                                                                                                                                                                                                                                                                                                                 
+[2018-01-18 13:33:23,901] - logger.py] - INFO: ------pass!---------
+[2018-01-18 13:46:36,068] - logger.py] - INFO: æ‰“å°dataçš„å€¼:[Fiddler] The connection to '172.24.5.99' failed. <br />Error: ConnectionRefused (0x274d). <br />System.Net.Sockets.SocketException ç”±äºç›®æ ‡è®¡ç®—æœºç§¯ææ‹’ç»ï¼Œæ— æ³•è¿æ¥ã€‚ 172.24.5.99:8002                                                                                                                                                                                                                                                                                                                                                          
+[2018-01-18 13:46:36,071] - logger.py] - INFO: ------pass!---------
+[2018-01-18 13:47:00,763] - logger.py] - INFO: æ‰“å°dataçš„å€¼:[Fiddler] The connection to '172.24.5.99' failed. <br />Error: ConnectionRefused (0x274d). <br />System.Net.Sockets.SocketException ç”±äºç›®æ ‡è®¡ç®—æœºç§¯ææ‹’ç»ï¼Œæ— æ³•è¿æ¥ã€‚ 172.24.5.99:8002                                                                                                                                                                                                                                                                                                                                                          
+[2018-01-18 13:47:00,766] - logger.py] - INFO: ------pass!---------
+[2018-01-18 13:47:30,142] - logger.py] - INFO: æ‰“å°dataçš„å€¼:[Fiddler] The connection to '172.24.5.99' failed. <br />Error: ConnectionRefused (0x274d). <br />System.Net.Sockets.SocketException ç”±äºç›®æ ‡è®¡ç®—æœºç§¯ææ‹’ç»ï¼Œæ— æ³•è¿æ¥ã€‚ 172.24.5.99:8002                                                                                                                                                                                                                                                                                                                                                          
+[2018-01-18 13:47:30,145] - logger.py] - INFO: ------pass!---------
+[2018-01-18 13:49:23,605] - logger.py] - INFO: æ‰“å°dataçš„å€¼:[Fiddler] The connection to '172.24.5.99' failed. <br />Error: ConnectionRefused (0x274d). <br />System.Net.Sockets.SocketException ç”±äºç›®æ ‡è®¡ç®—æœºç§¯ææ‹’ç»ï¼Œæ— æ³•è¿æ¥ã€‚ 172.24.5.99:8002                                                                                                                                                                                                                                                                                                                                                          
+[2018-01-18 13:49:43,147] - logger.py] - INFO: æ‰“å°dataçš„å€¼:[Fiddler] The connection to '172.24.5.99' failed. <br />Error: ConnectionRefused (0x274d). <br />System.Net.Sockets.SocketException ç”±äºç›®æ ‡è®¡ç®—æœºç§¯ææ‹’ç»ï¼Œæ— æ³•è¿æ¥ã€‚ 172.24.5.99:8002                                                                                                                                                                                                                                                                                                                                                          
+[2018-01-18 13:49:43,154] - logger.py] - INFO: ------pass!---------
+[2018-01-18 13:50:19,502] - logger.py] - INFO: æ‰“å°dataçš„å€¼:[Fiddler] The connection to '172.24.5.99' failed. <br />Error: ConnectionRefused (0x274d). <br />System.Net.Sockets.SocketException ç”±äºç›®æ ‡è®¡ç®—æœºç§¯ææ‹’ç»ï¼Œæ— æ³•è¿æ¥ã€‚ 172.24.5.99:8002                                                                                                                                                                                                                                                                                                                                                          
+[2018-01-18 13:50:19,503] - logger.py] - INFO: ------pass!---------
+[2018-01-18 13:50:59,766] - logger.py] - INFO: æ‰“å°dataçš„å€¼:[Fiddler] The connection to '172.24.5.99' failed. <br />Error: ConnectionRefused (0x274d). <br />System.Net.Sockets.SocketException ç”±äºç›®æ ‡è®¡ç®—æœºç§¯ææ‹’ç»ï¼Œæ— æ³•è¿æ¥ã€‚ 172.24.5.99:8002                                                                                                                                                                                                                                                                                                                                                          
+[2018-01-18 13:50:59,802] - logger.py] - INFO: ------pass!---------
+[2018-01-18 13:58:56,339] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 13:58:56,342] - logger.py] - INFO: ------pass!---------
+[2018-01-18 13:59:15,693] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 13:59:15,694] - logger.py] - INFO: ------pass!---------
+[2018-01-18 13:59:15,750] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'dKTTfE2rviADs5Mh68N8'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 13:59:15,772] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£ºdKTTfE2rviADs5Mh68N8
+[2018-01-18 14:00:18,572] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 14:00:47,309] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 14:01:14,345] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 14:02:16,763] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 14:02:16,772] - logger.py] - INFO: ------pass!---------
+[2018-01-18 14:05:17,221] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 14:05:17,230] - logger.py] - INFO: ------pass!---------
+[2018-01-18 14:05:17,269] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'S7UctWnhlwqpIfVsuunL'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 14:05:17,278] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£ºS7UctWnhlwqpIfVsuunL
+[2018-01-18 14:05:59,321] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 14:05:59,326] - logger.py] - INFO: ------pass!---------
+[2018-01-18 14:05:59,365] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'hKrtr0bbJydjON8xWqrV'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 14:05:59,372] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£ºhKrtr0bbJydjON8xWqrV
+[2018-01-18 14:06:56,961] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 14:06:56,970] - logger.py] - INFO: ------pass!---------
+[2018-01-18 14:06:57,029] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'epSWuMCDLd7ecGsaUNPq'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 14:06:57,038] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£ºepSWuMCDLd7ecGsaUNPq
+[2018-01-18 14:06:57,112] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'IYKSTewkpG513I53YWZP'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 14:06:57,118] - logger.py] - INFO: µ÷ÓÃ¶ÌĞÅÑéÖ¤½á¹û£ºIYKSTewkpG513I53YWZP
+[2018-01-18 14:07:17,552] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 14:07:17,559] - logger.py] - INFO: ------pass!---------
+[2018-01-18 14:07:17,598] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'FV0N4mVt9UB7QrE9we6E'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 14:07:17,609] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£ºFV0N4mVt9UB7QrE9we6E
+[2018-01-18 14:07:17,664] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'KvPiITTwrtQywMAe7R1x'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 14:07:17,676] - logger.py] - INFO: µ÷ÓÃ¶ÌĞÅÑéÖ¤½á¹û£ºKvPiITTwrtQywMAe7R1x
+[2018-01-18 14:07:17,871] - logger.py] - INFO: ------end!--------
+[2018-01-18 14:07:41,542] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 14:08:34,885] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":1,"resultData":null,"resultCtrl":{"type":"toast","toastValue":"æ‰‹æœºå·ç å·²æ³¨å†Œ","dialogTitle":null,"dialogContent":null,"dialogBtnList":null}}
+[2018-01-18 14:08:34,888] - logger.py] - INFO: ------pass!---------
+[2018-01-18 14:08:34,907] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 14:08:34,976] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 22:33:08,717] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 22:33:08,733] - logger.py] - INFO: ------pass!---------
+[2018-01-18 22:33:08,864] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'dYgAMPYo6uGozhnwR3Mq'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 22:33:08,875] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£ºdYgAMPYo6uGozhnwR3Mq
+[2018-01-18 22:33:08,954] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'nMs9Y1x7GO0VdFBXNyhA'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 22:33:08,959] - logger.py] - INFO: µ÷ÓÃ¶ÌĞÅÑéÖ¤½á¹û£ºnMs9Y1x7GO0VdFBXNyhA
+[2018-01-18 22:33:09,092] - logger.py] - INFO: ------end!--------
+[2018-01-18 22:35:06,510] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":1,"resultData":null,"resultCtrl":{"type":"toast","toastValue":"æ‰‹æœºå·ç å·²æ³¨å†Œ","dialogTitle":null,"dialogContent":null,"dialogBtnList":null}}
+[2018-01-18 22:35:06,529] - logger.py] - INFO: ------pass!---------
+[2018-01-18 22:35:06,621] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 22:35:06,757] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 22:37:57,086] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 22:38:11,305] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 22:39:27,197] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 22:39:27,204] - logger.py] - INFO: ------pass!---------
+[2018-01-18 22:39:27,306] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'4Bdsfp96nL2PHx7NZVMj'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 22:39:27,315] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£º4Bdsfp96nL2PHx7NZVMj
+[2018-01-18 22:39:27,772] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'SRiYwswYhkcIKbUtHW3Z'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 22:39:27,773] - logger.py] - INFO: µ÷ÓÃ¶ÌĞÅÑéÖ¤½á¹û£ºSRiYwswYhkcIKbUtHW3Z
+[2018-01-18 22:39:27,880] - logger.py] - INFO: ------end!--------
+[2018-01-18 22:46:01,157] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 22:46:01,180] - logger.py] - INFO: ------pass!---------
+[2018-01-18 22:46:01,266] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'IGmQ0BdGDfSO2OMcnQi9'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 22:46:01,286] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£ºIGmQ0BdGDfSO2OMcnQi9
+[2018-01-18 22:46:01,384] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'BthBqexDPCGaSaQkqepA'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 22:46:01,405] - logger.py] - INFO: µ÷ÓÃ¶ÌĞÅÑéÖ¤½á¹û£ºBthBqexDPCGaSaQkqepA
+[2018-01-18 22:46:01,551] - logger.py] - INFO: ------end!--------
+[2018-01-18 22:55:51,335] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 22:55:51,352] - logger.py] - INFO: ------pass!---------
+[2018-01-18 22:55:51,436] - logger.py] - INFO: æ‰“å°r1.jsonçš„å€¼ï¼š{u'resultData': {u'token': u'0I62mR3K44egCUWYX7LR'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 22:55:51,460] - logger.py] - INFO: æ‰“å°tokençš„å€¼ï¼š0I62mR3K44egCUWYX7LR
+[2018-01-18 22:55:51,536] - logger.py] - INFO: æ‰“å°r1.jsonçš„å€¼ï¼š{u'resultData': {u'token': u'1BDLS4j4AknB5WQuWqGe'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 22:55:51,562] - logger.py] - INFO: è°ƒç”¨çŸ­ä¿¡éªŒè¯ç»“æœï¼š1BDLS4j4AknB5WQuWqGe
+[2018-01-18 22:55:51,697] - logger.py] - INFO: ------end!--------
+[2018-01-18 22:55:51,793] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":1,"resultData":null,"resultCtrl":{"type":"toast","toastValue":"æ‰‹æœºå·ç å·²æ³¨å†Œ","dialogTitle":null,"dialogContent":null,"dialogBtnList":null}}
+[2018-01-18 22:55:51,812] - logger.py] - INFO: ------pass!---------
+[2018-01-18 22:55:51,908] - logger.py] - INFO: æ‰“å°r1.jsonçš„å€¼ï¼š{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 22:55:52,009] - logger.py] - INFO: æ‰“å°r1.jsonçš„å€¼ï¼š{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 23:00:19,361] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":1,"resultData":null,"resultCtrl":{"type":"toast","toastValue":"æ‰‹æœºå·ç å·²æ³¨å†Œ","dialogTitle":null,"dialogContent":null,"dialogBtnList":null}}
+[2018-01-18 23:00:19,387] - logger.py] - INFO: ------pass!---------
+[2018-01-18 23:00:19,460] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 23:00:19,539] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 23:00:56,296] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 23:00:56,316] - logger.py] - INFO: ------pass!---------
+[2018-01-18 23:00:57,049] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'QVjMLLz3yyzGOGVtDBmk'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 23:00:57,072] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£ºQVjMLLz3yyzGOGVtDBmk
+[2018-01-18 23:00:57,803] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'vRcv985LUFfGFlG5wK0z'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 23:00:57,825] - logger.py] - INFO: µ÷ÓÃ¶ÌĞÅÑéÖ¤½á¹û£ºvRcv985LUFfGFlG5wK0z
+[2018-01-18 23:00:58,612] - logger.py] - INFO: ------end!--------
+[2018-01-18 23:05:05,548] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 23:05:05,569] - logger.py] - INFO: ------pass!---------
+[2018-01-18 23:05:05,713] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'p4sWHsRnfFI7QmwKCj0t'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 23:05:05,743] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£ºp4sWHsRnfFI7QmwKCj0t
+[2018-01-18 23:05:05,831] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'q0sWFCEbLFzzGq2VqYJQ'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 23:05:05,835] - logger.py] - INFO: µ÷ÓÃ¶ÌĞÅÑéÖ¤½á¹û£ºq0sWFCEbLFzzGq2VqYJQ
+[2018-01-18 23:05:05,953] - logger.py] - INFO: ------end!--------
+[2018-01-18 23:08:36,301] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 23:08:36,323] - logger.py] - INFO: ------pass!---------
+[2018-01-18 23:08:36,413] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'6A72DonkKMpB6l40kpTw'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 23:08:36,434] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£º6A72DonkKMpB6l40kpTw
+[2018-01-18 23:08:36,536] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'gdy7BgbQ1do2y8fONfTO'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 23:08:36,549] - logger.py] - INFO: µ÷ÓÃ¶ÌĞÅÑéÖ¤½á¹û£ºgdy7BgbQ1do2y8fONfTO
+[2018-01-18 23:08:36,642] - logger.py] - INFO: ------end!--------
+[2018-01-18 23:23:26,687] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":1,"resultData":null,"resultCtrl":{"type":"toast","toastValue":"æ‰‹æœºå·ç å·²æ³¨å†Œ","dialogTitle":null,"dialogContent":null,"dialogBtnList":null}}
+[2018-01-18 23:23:26,693] - logger.py] - INFO: ------pass!---------
+[2018-01-18 23:23:26,762] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 23:23:26,818] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 23:23:51,957] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-18 23:23:51,987] - logger.py] - INFO: ------pass!---------
+[2018-01-18 23:23:52,098] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'SsvSepnvQuSY6OueEeXt'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 23:23:52,134] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£ºSsvSepnvQuSY6OueEeXt
+[2018-01-18 23:23:52,233] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'mxcbsXGISjbi7AAmmMsg'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-18 23:23:52,243] - logger.py] - INFO: µ÷ÓÃ¶ÌĞÅÑéÖ¤½á¹û£ºmxcbsXGISjbi7AAmmMsg
+[2018-01-18 23:23:52,369] - logger.py] - INFO: ------end!--------
+[2018-01-18 23:27:47,509] - logger.py] - INFO: ç™»å½•å¼€å§‹
+[2018-01-18 23:27:47,789] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":1,"resultData":null,"resultCtrl":{"type":"toast","toastValue":"æ‰‹æœºå·ç å·²æ³¨å†Œ","dialogTitle":null,"dialogContent":null,"dialogBtnList":null}}
+[2018-01-18 23:27:47,805] - logger.py] - INFO: ------pass!---------
+[2018-01-18 23:27:47,892] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 23:27:47,953] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-18 23:28:12,075] - logger.py] - INFO: ç™»å½•å¼€å§‹
+[2018-01-18 23:36:36,095] - logger.py] - INFO: å¼€å§‹ç™»å½•
+[2018-01-18 23:36:36,253] - logger.py] - INFO: ------ç™»å½•æˆåŠŸ!--------

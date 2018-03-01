@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>上饶银行接口自动化测试报告,测试结果如下：</title>
+    <meta name="generator" content="HTMLTestRunner 0.8.2"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    
+<style type="text/css" media="screen">
+body        { font-family: verdana, arial, helvetica, sans-serif; font-size: 80%; }
+table       { font-size: 100%; }
+pre         { }
+
+/* -- heading ---------------------------------------------------------------------- */
+h1 {
+	font-size: 16pt;
+	color: gray;
+}
+.heading {
+    margin-top: 0ex;
+    margin-bottom: 1ex;
+}
+
+.heading .attribute {
+    margin-top: 1ex;
+    margin-bottom: 0;
+}
+
+.heading .description {
+    margin-top: 4ex;
+    margin-bottom: 6ex;
+}
+
+/* -- css div popup ------------------------------------------------------------------------ */
+a.popup_link {
+}
+
+a.popup_link:hover {
+    color: red;
+}
+
+.popup_window {
+    display: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    /*border: solid #627173 1px; */
+    padding: 10px;
+    background-color: #E6E6D6;
+    font-family: "Lucida Console", "Courier New", Courier, monospace;
+    text-align: left;
+    font-size: 8pt;
+    width: 500px;
+}
+
+}
+/* -- report ------------------------------------------------------------------------ */
+#show_detail_line {
+    margin-top: 3ex;
+    margin-bottom: 1ex;
+}
+#result_table {
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid #777;
+}
+#header_row {
+    font-weight: bold;
+    color: white;
+    background-color: #777;
+}
+#result_table td {
+    border: 1px solid #777;
+    padding: 2px;
+}
+#total_row  { font-weight: bold; }
+.passClass  { background-color: #6c6; }
+.failClass  { background-color: #c60; }
+.errorClass { background-color: #c00; }
+.passCase   { color: #6c6; }
+.failCase   { color: #c60; font-weight: bold; }
+.errorCase  { color: #c00; font-weight: bold; }
+.hiddenRow  { display: none; }
+.testcase   { margin-left: 2em; }
+
+
+/* -- ending ---------------------------------------------------------------------- */
+#ending {
+}
+
+</style>
+
+</head>
+<body>
+<script language="javascript" type="text/javascript"><!--
+output_list = Array();
+
+/* level - 0:Summary; 1:Failed; 2:All */
+function showCase(level) {
+    trs = document.getElementsByTagName("tr");
+    for (var i = 0; i < trs.length; i++) {
+        tr = trs[i];
+        id = tr.id;
+        if (id.substr(0,2) == 'ft') {
+            if (level < 1) {
+                tr.className = 'hiddenRow';
+            }
+            else {
+                tr.className = '';
+            }
+        }
+        if (id.substr(0,2) == 'pt') {
+            if (level > 1) {
+                tr.className = '';
+            }
+            else {
+                tr.className = 'hiddenRow';
+            }
+        }
+    }
+}
+
+
+function showClassDetail(cid, count) {
+    var id_list = Array(count);
+    var toHide = 1;
+    for (var i = 0; i < count; i++) {
+        tid0 = 't' + cid.substr(1) + '.' + (i+1);
+        tid = 'f' + tid0;
+        tr = document.getElementById(tid);
+        if (!tr) {
+            tid = 'p' + tid0;
+            tr = document.getElementById(tid);
+        }
+        id_list[i] = tid;
+        if (tr.className) {
+            toHide = 0;
+        }
+    }
+    for (var i = 0; i < count; i++) {
+        tid = id_list[i];
+        if (toHide) {
+            document.getElementById('div_'+tid).style.display = 'none'
+            document.getElementById(tid).className = 'hiddenRow';
+        }
+        else {
+            document.getElementById(tid).className = '';
+        }
+    }
+}
+
+
+function showTestDetail(div_id){
+    var details_div = document.getElementById(div_id)
+    var displayState = details_div.style.display
+    // alert(displayState)
+    if (displayState != 'block' ) {
+        displayState = 'block'
+        details_div.style.display = 'block'
+    }
+    else {
+        details_div.style.display = 'none'
+    }
+}
+
+
+function html_escape(s) {
+    s = s.replace(/&/g,'&amp;');
+    s = s.replace(/</g,'&lt;');
+    s = s.replace(/>/g,'&gt;');
+    return s;
+}
+
+/* obsoleted by detail in <div>
+function showOutput(id, name) {
+    var w = window.open("", //url
+                    name,
+                    "resizable,scrollbars,status,width=800,height=450");
+    d = w.document;
+    d.write("<pre>");
+    d.write(html_escape(output_list[id]));
+    d.write("\n");
+    d.write("<a href='javascript:window.close()'>close</a>\n");
+    d.write("</pre>\n");
+    d.close();
+}
+*/
+--></script>
+
+<div class='heading'>
+<h1>上饶银行接口自动化测试报告,测试结果如下：</h1>
+<p class='attribute'><strong>Start Time:</strong> 2018-01-31 11:48:21</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:42.971000</p>
+<p class='attribute'><strong>Status:</strong> Pass 8</p>
+
+<p class='description'>用例执行情况：</p>
+</div>
+
+
+
+<p id='show_detail_line'>Show
+<a href='javascript:showCase(0)'>Summary</a>
+<a href='javascript:showCase(1)'>Failed</a>
+<a href='javascript:showCase(2)'>All</a>
+</p>
+<table id='result_table'>
+<colgroup>
+<col align='left' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+</colgroup>
+<tr id='header_row'>
+    <td>Test Group/Test case</td>
+    <td>Count</td>
+    <td>Pass</td>
+    <td>Fail</td>
+    <td>Error</td>
+    <td>View</td>
+</tr>
+
+<tr class='passClass'>
+    <td>testcase.test01_register.register</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c1',1)">Detail</a></td>
+</tr>
+
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test01_register</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        pass</a>
+
+    <div id='div_pt1.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.1: [2018-01-31 11:48:21,469] - logger.py] - INFO: ---注册输入手机号，发送短信验证码开始---
+{u'resultData': None, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+[2018-01-31 11:48:21,763] - logger.py] - INFO: ---注册输入手机号成功，发送短信验证码成功---
+[2018-01-31 11:48:21,769] - logger.py] - INFO: ---验证短信验证码开始---
+http://172.24.5.99:8002/user/registVerifySms
+[2018-01-31 11:48:21,828] - logger.py] - INFO: 打印r1.json的值：{u'resultData': {u'token': u'N6l3erjuSzKj9GObVCng'}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+[2018-01-31 11:48:21,835] - logger.py] - INFO: 短信验证码验证成功，打印token的值：N6l3erjuSzKj9GObVCng
+[2018-01-31 11:48:21,841] - logger.py] - INFO: ---设置登录密码开始---
+http://172.24.5.99:8002/user/registSetPwd {'Content-Type': 'application/json'}
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'mobile': '14140000004', 'token': u'N6l3erjuSzKj9GObVCng', 'loginPwd': 111111, 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+&lt;Response [200]&gt;
+{u'resultData': {u'custId': u'101408226987262754816', u'auth': u'9db99d493cc6ddbafcf2a9bbda185cb5'}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+[2018-01-31 11:48:21,963] - logger.py] - INFO: 设置登录密码成功，注册完成---
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='passClass'>
+    <td>testcase.test02_OpenAccount.OpenAccount</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c2',1)">Detail</a></td>
+</tr>
+
+<tr id='pt2.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test02_OpenAccount</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.1')" >
+        pass</a>
+
+    <div id='div_pt2.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.1: [2018-01-31 11:48:21,967] - logger.py] - INFO: ---调用登录获取auth开始---
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'forceLogin': 'true', 'value': '14140000004', 'loginPwd': 111111, 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+{u'resultData': {u'needVerify': False, u'custId': u'101408226987262754816', u'verifyToken': None, u'auth': u'ff8939911c915849cb4cb2d2437a1e96', u'jrId': None}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+[2018-01-31 11:48:22,099] - logger.py] - INFO: ---登录成功---
+[2018-01-31 11:48:22,105] - logger.py] - INFO: ---调用开户身份验证接口开始，获取token---
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+{'deviceName': 'iPhone 6 Plus', 'address': '\xe9\x99\x95\xe8\xa5\xbf\xe7\x9c\x81\xe5\x95\x86\xe6\xb4\x9b\xe5\xb8\x82\xe5\x95\x86\xe5\x8d\x97\xe5\x8e\xbf', 'auth': u'ff8939911c915849cb4cb2d2437a1e96', 'appVersion': '1.0', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'validDateBegin': '20170626', 'validDateEnd': '20200626', 'sdkVersion': '1.0.0', 'backURL': 'TYPE_IDCARD382485557485645824', 'certName': '\xe5\xb0\x8f\xe6\x9c\x88', 'certNo': '110221199902024212', 'clientName': 'ios', 'frontURL': 'TYPE_IDCARD382485515362250752', 'custId': u'101408226987262754816', 'channel': 'zxyh_shangraobank', 'checkState': 'true'}
+{u'resultData': {u'token': u'e4f2fc7efa92cc8a3572e5f85e1f2258'}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+e4f2fc7efa92cc8a3572e5f85e1f2258
+[2018-01-31 11:48:22,407] - logger.py] - INFO: ---开户身份验证接口返回成功---
+[2018-01-31 11:48:22,414] - logger.py] - INFO: ---调用判断银行卡号是否支持指定业务接口开始---
+{u'resultData': {u'supportFlag': True, u'bankCardInfo': {u'bankCardType': u'DC', u'bankCardId': None, u'bankInfo': {u'bankName': u'\u90ae\u653f\u50a8\u84c4\u94f6\u884c', u'gradientColorEnd': None, u'singleLimit': None, u'bankLogo': u'http://storage.360buyimg.com/jd-wallet-plug-in/PSBC', u'bankCode': u'PSBC', u'gradientColorBegin': None, u'dayLimit': None}, u'validMonth': None, u'bankCardNumMask': None, u'validYear': None, u'cvv2': None, u'bankCardMobile': None}}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+DC PSBC
+[2018-01-31 11:48:22,474] - logger.py] - INFO: 打印银行卡类型和银行编码DC PSBC:
+[2018-01-31 11:48:22,482] - logger.py] - INFO: ---调用判断银行卡号是否支持指定业务接口通过---
+[2018-01-31 11:48:22,490] - logger.py] - INFO: ---调用绑卡发短信接口开始---
+{u'resultData': {u'extStr': u'{"outTradeNo":"test"}'}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+{"outTradeNo":"test"}
+[2018-01-31 11:48:26,392] - logger.py] - INFO: ----绑卡发短信接口通过---
+[2018-01-31 11:48:26,398] - logger.py] - INFO: ---调用绑卡验证短信接口开始---
+{u'resultData': {u'token': u'23f9734e98ea1e258d4b756e64aa2f14'}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+23f9734e98ea1e258d4b756e64aa2f14
+[2018-01-31 11:48:26,493] - logger.py] - INFO: ---绑卡验证短信接口通过---
+[2018-01-31 11:48:26,500] - logger.py] - INFO: ---调用开户接口开始-----
+&lt;Response [200]&gt;
+{u'resultData': {u'grayFlag': False, u'secAccountNoMask': u'621014****5885', u'encryptedInfo': None, u'accountStatusDesc': None, u'accountStatus': 0, u'availAmount': None, u'secAccountName': u'\u4e0a\u9976\u94f6\u884c', u'secAccountNo': u'6210147100005885', u'needReload': False}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='passClass'>
+    <td>testcase.test03_submitTransferOrderIn.SubTransferOrderIN</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c3',1)">Detail</a></td>
+</tr>
+
+<tr id='pt3.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_subTransferOrderIN</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt3.1')" >
+        pass</a>
+
+    <div id='div_pt3.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt3.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt3.1: [2018-01-31 11:48:38,279] - logger.py] - INFO: å¼å§ç»å½
+-------------
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'forceLogin': 'true', 'value': '14140000004', 'loginPwd': '111111', 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+{u'resultData': {u'needVerify': False, u'custId': u'101408226987262754816', u'verifyToken': None, u'auth': u'5bc174c4730561996adacd285088e36b', u'jrId': u'$360010000044000000261671'}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+(u'101408226987262754816', u'5bc174c4730561996adacd285088e36b', 0)
+[2018-01-31 11:48:38,391] - logger.py] - INFO: -----è°ç¨èµéåæ¨å¡çæ¥è¯¢æ¥å£å¼å§-----
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'auth': u'5bc174c4730561996adacd285088e36b', 'custId': u'101408226987262754816', 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+{u'resultData': {u'outTransferDesc': u'1.\u8f6c\u5165\u8d26\u6237\u4e3a\u672c\u884c\u501f\u8bb0\u5361\uff1a\u65e0\u9650\u989d\u3002\n2.\u8f6c\u5165\u8d26\u6237\u4e3a\u4ed6\u884c\u501f\u8bb0\u5361\uff1a\u5de5\u4f5c\u65e58:00-17:00\u8f6c\u51fa\u8d44\u91d1\u4e0d\u9650\u989d\u5ea6\uff1b\u975e\u4ee5\u4e0a\u65f6\u95f4\u6bb5\uff0c\u8f6c\u51fa\u8d44\u91d1\u5355\u7b14\u9650\u989d5\u4e07\u5143\u3002', u'outBankCardId': u'102408227033647562752', u'module': {u'descInfo': None, u'routeInfo': {u'sdkModuleName': None, u'grayBizCode': u'TRANSFER', u'route': u'TRANSFER', u'sdkModuleFlag': False, u'needOpenAccount': 0, u'extraParam': None, u'subRoute': None, u'needLogin': 0, u'type': u'NATIVE'}}, u'inBankCardId': u'102408227033647562752', u'inTransferDesc': None, u'tips': u'\u6e29\u99a8\u63d0\u793a\uff1a\n\u8fde\u7eed\u4e24\u6b21\u56e0\u4f59\u989d\u4e0d\u8db3\u8f6c\u5165\u5931\u8d25\u4f1a\u5bfc\u81f4\u7ed1\u5b9a\u501f\u8bb0\u5361\u5728\u76f4\u9500\u94f6\u884c\u7684\u8f6c\u5165\u529f\u80fd\u9501\u5b9a\uff0c\u9501\u5b9a\u540e\uff0c\u60a8\u53ef\u901a\u8fc7\u201c\u6211\u7684\u94f6\u884c\u5361-\u6362\u5361\u201d\u529f\u80fd\u53d8\u66f4\u7ed1\u5361\u540e\u518d\u8bd5\u3002'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-31 11:48:38,476] - logger.py] - INFO: -----è°ç¨èµéåæ¨å¡çæ¥è¯¢æ¥å£ç»æï¼è·åç»å¡id----
+[2018-01-31 11:48:38,480] - logger.py] - INFO: ---è°ç¨å¥éè®¾ç½®äº¤æéé¢æ¥å£å¼å§---
+{'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'channel': 'zxyh_shangraobank', 'appVersion': '1.0', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'clientName': 'ios'}
+56974056
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+57120152
+{'deviceName': 'iPhone 6 Plus', 'auth': u'5bc174c4730561996adacd285088e36b', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'bankCardId': u'102408227033647562752', 'sdkVersion': '1.0.0', 'type': 'IN', 'appVersion': '1.0', 'amount': 388, 'clientName': 'ios', 'custId': u'101408226987262754816', 'channel': 'zxyh_shangraobank'}
+http://172.24.5.99:8002/user/submitTransferOrderIn
+&lt;Response [200]&gt;
+{u'resultData': {u'extStr': None, u'nextStep': u'TRADEPWD', u'token': u'7a66c0cf56012cfe8d37e59bcd1e5494', u'mobileMask': None, u'transferResult': None}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+[2018-01-31 11:48:43,647] - logger.py] - INFO: ---è°ç¨å¥éè®¾ç½®äº¤æéé¢æ¥å£ç»æ---
+[2018-01-31 11:48:43,655] - logger.py] - INFO: ---ä¸ä¸æ­¥è¾å¥äº¤æå¯ç å¼å§---
+{'deviceName': 'iPhone 6 Plus', 'auth': u'5bc174c4730561996adacd285088e36b', 'token': u'7a66c0cf56012cfe8d37e59bcd1e5494', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'step': u'TRADEPWD', 'bankCardId': u'102408227033647562752', 'sdkVersion': '1.0.0', 'verifyData': 147369, 'type': 'IN', 'appVersion': '1.0', 'amount': 388, 'clientName': 'ios', 'custId': u'101408226987262754816', 'channel': 'zxyh_shangraobank'}
+&lt;Response [200]&gt;
+{u'resultData': {u'extStr': None, u'nextStep': u'FINISH', u'token': None, u'mobileMask': None, u'transferResult': {u'resultStepList': [{u'isCurrentStep': True, u'amount': u'3.88\u5143', u'desc': u'\u4e2d\u56fd\u90ae\u653f\u50a8\u84c4\u94f6\u884c(0001)\u8f6c\u5230 \u7535\u5b50\u8d26\u6237(5885)', u'title': u'\u8f6c\u5165\u7533\u8bf7\u5df2\u63d0\u4ea4\uff0c\u8bf7\u7b49\u5f85\u5904\u7406'}, {u'isCurrentStep': False, u'amount': None, u'desc': None, u'title': u'\u9884\u8ba12\u5c0f\u65f6\u5185\uff0813:48\u524d\uff09\u5230\u8d26'}]}}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-31 11:48:45,890] - logger.py] - INFO: ---å¥éæåè¿åç»æ---
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='passClass'>
+    <td>testcase.test04_submitTransferOrderOut.SubTransferOrderIN</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c4',1)">Detail</a></td>
+</tr>
+
+<tr id='pt4.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_subTransferOrderIN</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt4.1')" >
+        pass</a>
+
+    <div id='div_pt4.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt4.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt4.1: [2018-01-31 11:48:45,898] - logger.py] - INFO: å¼å§ç»å½
+-------------
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'forceLogin': 'true', 'value': '14140000004', 'loginPwd': '111111', 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+{u'resultData': {u'needVerify': False, u'custId': u'101408226987262754816', u'verifyToken': None, u'auth': u'3b5172ff6264005db99fccfe119e7604', u'jrId': u'$360010000044000000261671'}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+(u'101408226987262754816', u'3b5172ff6264005db99fccfe119e7604', 0)
+[2018-01-31 11:48:46,016] - logger.py] - INFO: -----è°ç¨èµéåæ¨å¡çæ¥è¯¢æ¥å£å¼å§-----
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'auth': u'3b5172ff6264005db99fccfe119e7604', 'custId': u'101408226987262754816', 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+{u'resultData': {u'outTransferDesc': u'1.\u8f6c\u5165\u8d26\u6237\u4e3a\u672c\u884c\u501f\u8bb0\u5361\uff1a\u65e0\u9650\u989d\u3002\n2.\u8f6c\u5165\u8d26\u6237\u4e3a\u4ed6\u884c\u501f\u8bb0\u5361\uff1a\u5de5\u4f5c\u65e58:00-17:00\u8f6c\u51fa\u8d44\u91d1\u4e0d\u9650\u989d\u5ea6\uff1b\u975e\u4ee5\u4e0a\u65f6\u95f4\u6bb5\uff0c\u8f6c\u51fa\u8d44\u91d1\u5355\u7b14\u9650\u989d5\u4e07\u5143\u3002', u'outBankCardId': u'102408227033647562752', u'module': {u'descInfo': None, u'routeInfo': {u'sdkModuleName': None, u'grayBizCode': u'TRANSFER', u'route': u'TRANSFER', u'sdkModuleFlag': False, u'needOpenAccount': 0, u'extraParam': None, u'subRoute': None, u'needLogin': 0, u'type': u'NATIVE'}}, u'inBankCardId': u'102408227033647562752', u'inTransferDesc': None, u'tips': u'\u6e29\u99a8\u63d0\u793a\uff1a\n\u8fde\u7eed\u4e24\u6b21\u56e0\u4f59\u989d\u4e0d\u8db3\u8f6c\u5165\u5931\u8d25\u4f1a\u5bfc\u81f4\u7ed1\u5b9a\u501f\u8bb0\u5361\u5728\u76f4\u9500\u94f6\u884c\u7684\u8f6c\u5165\u529f\u80fd\u9501\u5b9a\uff0c\u9501\u5b9a\u540e\uff0c\u60a8\u53ef\u901a\u8fc7\u201c\u6211\u7684\u94f6\u884c\u5361-\u6362\u5361\u201d\u529f\u80fd\u53d8\u66f4\u7ed1\u5361\u540e\u518d\u8bd5\u3002'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-31 11:48:46,102] - logger.py] - INFO: -----è°ç¨èµéåæ¨å¡çæ¥è¯¢æ¥å£ç»æï¼è·åç»å¡id----
+[2018-01-31 11:48:46,108] - logger.py] - INFO: ---è°ç¨åºéè®¾ç½®äº¤æéé¢æ¥å£å¼å§---
+{'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'channel': 'zxyh_shangraobank', 'appVersion': '1.0', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'clientName': 'ios'}
+56974056
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+57132984
+{'deviceName': 'iPhone 6 Plus', 'auth': u'3b5172ff6264005db99fccfe119e7604', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'bankCardId': u'102408227033647562752', 'sdkVersion': '1.0.0', 'androidInstallChannel': 'defaultbank', 'type': 'OUT', 'appVersion': '1.0', 'amount': 199, 'clientName': 'ios', 'custId': u'101408226987262754816', 'channel': 'zxyh_shangraobank'}
+http://172.24.5.99:8002/user/submitTransferOrderOut
+&lt;Response [200]&gt;
+{u'resultData': {u'extStr': None, u'nextStep': u'TRADEPWD', u'token': u'80af72977088b79cf83f30cffe80b9ec', u'mobileMask': None, u'transferResult': None}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+[2018-01-31 11:48:49,519] - logger.py] - INFO: ---è°ç¨åºéè®¾ç½®äº¤æéé¢æ¥å£ç»æ---
+[2018-01-31 11:48:49,525] - logger.py] - INFO: ---ä¸ä¸æ­¥è¾å¥äº¤æå¯ç å¼å§---
+{u'resultData': {u'extStr': None, u'nextStep': u'FINISH', u'token': None, u'mobileMask': None, u'transferResult': {u'resultStepList': [{u'isCurrentStep': True, u'amount': u'1.99\u5143', u'desc': u'\u7535\u5b50\u8d26\u6237(5885)\u8f6c\u5230 \u4e2d\u56fd\u90ae\u653f\u50a8\u84c4\u94f6\u884c(0001)', u'title': u'\u8f6c\u51fa\u7533\u8bf7\u5df2\u63d0\u4ea4\uff0c\u8bf7\u7b49\u5f85\u5904\u7406'}, {u'isCurrentStep': False, u'amount': None, u'desc': None, u'title': u'\u9884\u8ba12\u5c0f\u65f6\u5185\uff0813:48\u524d\uff09\u5230\u8d26'}]}}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-31 11:48:52,990] - logger.py] - INFO: ---åºéæåè¿åç»æ---
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='passClass'>
+    <td>testcase.test05_Lost.Lost</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c5',1)">Detail</a></td>
+</tr>
+
+<tr id='pt5.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test05_Lost</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt5.1')" >
+        pass</a>
+
+    <div id='div_pt5.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt5.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt5.1: [2018-01-31 11:48:52,994] - logger.py] - INFO: -------è°ç¨ç»å½æ¹æ³å¼å§------
+[2018-01-31 11:48:53,002] - logger.py] - INFO: å¼å§ç»å½
+-------------
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'forceLogin': 'true', 'value': '14140000004', 'loginPwd': '111111', 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+{u'resultData': {u'needVerify': False, u'custId': u'101408226987262754816', u'verifyToken': None, u'auth': u'b0f9af34e997638f91fad52d578351a7', u'jrId': u'$360010000044000000261671'}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+[2018-01-31 11:48:53,124] - logger.py] - INFO: -------è°ç¨æå¤±æ¥å£å¼å§------
+{'deviceName': 'iPhone 6 Plus', 'funName': 'ACCOUNT', 'auth': u'b0f9af34e997638f91fad52d578351a7', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'sdkVersion': '1.0.0', 'appVersion': '1.0', 'funType': 'LOST', 'clientName': 'ios', 'custId': u'101408226987262754816', 'channel': 'zxyh_shangraobank'}
+&lt;Response [200]&gt;
+&lt;type 'dict'&gt;
+{u'resultData': {u'verifyStepList': [{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u8eab\u4efd\u9a8c\u8bc1', u'stepDesc': u'', u'extraData': None, u'canBack': True, u'nextStep': u'InputCertNo', u'token': u'ab889ee8d8543810856278e1caf505bb'}]}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'list'&gt;
+--------------------------------
+{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u8eab\u4efd\u9a8c\u8bc1', u'stepDesc': u'', u'extraData': None, u'canBack': True, u'nextStep': u'InputCertNo', u'token': u'ab889ee8d8543810856278e1caf505bb'}
+{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u8eab\u4efd\u9a8c\u8bc1', u'stepDesc': u'', u'extraData': None, u'canBack': True, u'nextStep': u'InputCertNo', u'token': u'ab889ee8d8543810856278e1caf505bb'}
+[2018-01-31 11:48:55,174] - logger.py] - INFO: -------è°ç¨æå¤±èº«ä»½éªè¯æ¥å£å¼å§------
+{'deviceName': 'iPhone 6 Plus', 'funName': 'ACCOUNT', 'auth': u'b0f9af34e997638f91fad52d578351a7', 'certNo': '110221199902024212', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'step': u'InputCertNo', 'certType': '00', 'sdkVersion': '1.0.0', 'appVersion': '1.0', 'token': u'ab889ee8d8543810856278e1caf505bb', 'funType': 'LOST', 'clientName': 'ios', 'custId': u'101408226987262754816', 'channel': 'zxyh_shangraobank'}
+&lt;Response [200]&gt;
+{u'resultData': {u'verifyStepList': [{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u8d26\u6237\u6302\u5931', u'stepDesc': u'', u'extraData': None, u'canBack': True, u'nextStep': u'Finish', u'token': u'cbbee41f568c452d89ed6b0658e39bb7'}]}, u'resultCode': 0, u'resultCtrl': None}
+æµè¯å¤±è´¥äº:'int' object has no attribute '__getitem__'
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='passClass'>
+    <td>testcase.test07_tradePwd.TradePwd</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c6',1)">Detail</a></td>
+</tr>
+
+<tr id='pt6.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test07_tradePwd</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt6.1')" >
+        pass</a>
+
+    <div id='div_pt6.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt6.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt6.1: [2018-01-31 11:48:55,260] - logger.py] - INFO: -------è°ç¨ç»å½æ¹æ³å¼å§------
+[2018-01-31 11:48:55,269] - logger.py] - INFO: å¼å§ç»å½
+-------------
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'forceLogin': 'true', 'value': '14140000004', 'loginPwd': '111111', 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+{u'resultData': {u'needVerify': False, u'custId': u'101408226987262754816', u'verifyToken': None, u'auth': u'd960d2a6ddade3929faabd8f210440c5', u'jrId': u'$360010000044000000261671'}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+[2018-01-31 11:48:55,410] - logger.py] - INFO: -------éç¨éªè¯,è°ç¨ä¿®æ¹äº¤æå¯ç æ¥å£å¼å§------
+{'deviceName': 'iPhone 6 Plus', 'funName': 'TRADEPWD', 'auth': u'd960d2a6ddade3929faabd8f210440c5', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'sdkVersion': '1.0.0', 'appVersion': '1.0', 'funType': 'MODIFY', 'clientName': 'ios', 'custId': u'101408226987262754816', 'channel': 'zxyh_shangraobank'}
+&lt;Response [200]&gt;
+&lt;type 'dict'&gt;
+{u'resultData': {u'verifyStepList': [{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u8eab\u4efd\u9a8c\u8bc1', u'stepDesc': u'', u'extraData': None, u'canBack': True, u'nextStep': u'InputLoginPwd', u'token': u'6aa08a5d1a48bd1ba925bc7d4400e9b4'}]}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'list'&gt;
+--------------------------------
+{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u8eab\u4efd\u9a8c\u8bc1', u'stepDesc': u'', u'extraData': None, u'canBack': True, u'nextStep': u'InputLoginPwd', u'token': u'6aa08a5d1a48bd1ba925bc7d4400e9b4'}
+{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u8eab\u4efd\u9a8c\u8bc1', u'stepDesc': u'', u'extraData': None, u'canBack': True, u'nextStep': u'InputLoginPwd', u'token': u'6aa08a5d1a48bd1ba925bc7d4400e9b4'}
+[2018-01-31 11:48:55,476] - logger.py] - INFO: -------éç¨éªè¯è¾å¥ç»å½å¯ç ------
+{'deviceName': 'iPhone 6 Plus', 'funName': 'TRADEPWD', 'auth': u'd960d2a6ddade3929faabd8f210440c5', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'step': u'InputLoginPwd', 'sdkVersion': '1.0.0', 'loginPwd': 111111, 'appVersion': '1.0', 'token': u'6aa08a5d1a48bd1ba925bc7d4400e9b4', 'funType': 'MODIFY', 'clientName': 'ios', 'custId': u'101408226987262754816', 'channel': 'zxyh_shangraobank'}
+&lt;Response [200]&gt;
+{u'resultData': {u'verifyStepList': [{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u8eab\u4efd\u9a8c\u8bc1', u'stepDesc': u'', u'extraData': None, u'canBack': True, u'nextStep': u'InputVerifyBankCardInfo', u'token': u'c8d2550a03516dc1dbd5d96f2820c53c'}]}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-31 11:48:55,530] - logger.py] - INFO: verifyStepListçç»ææ¯[{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u8eab\u4efd\u9a8c\u8bc1', u'stepDesc': u'', u'extraData': None, u'canBack': True, u'nextStep': u'InputVerifyBankCardInfo', u'token': u'c8d2550a03516dc1dbd5d96f2820c53c'}]
+&lt;type 'list'&gt;
+{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u8eab\u4efd\u9a8c\u8bc1', u'stepDesc': u'', u'extraData': None, u'canBack': True, u'nextStep': u'InputVerifyBankCardInfo', u'token': u'c8d2550a03516dc1dbd5d96f2820c53c'}
+[2018-01-31 11:48:55,536] - logger.py] - INFO: -------éç¨éªè¯åè¦ç´ é´æ------
+{'bankCardType': 'DC', 'deviceName': 'iPhone 6 Plus', 'funName': 'TRADEPWD', 'auth': u'd960d2a6ddade3929faabd8f210440c5', 'certNo': '110221199902024212', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'step': u'InputVerifyBankCardInfo', 'certType': '00', 'bankCardMobile': '14140000004', 'sdkVersion': '1.0.0', 'androidInstallChannel': 'defaultbank', 'appVersion': '1.0', 'token': u'c8d2550a03516dc1dbd5d96f2820c53c', 'funType': 'MODIFY', 'clientName': 'ios', 'custId': u'101408226987262754816', 'channel': 'zxyh_shangraobank', 'bankCardNum': '6217990000000000001'}
+&lt;Response [200]&gt;
+{u'resultData': {u'verifyStepList': [{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u8eab\u4efd\u9a8c\u8bc1', u'stepDesc': u'', u'extraData': u'{"mobile":"14140000004"}', u'canBack': True, u'nextStep': u'InputSMS', u'token': u'03c1281524a0798246148ca5044d2601'}]}, u'resultCode': 0, u'resultCtrl': None}
+{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u8eab\u4efd\u9a8c\u8bc1', u'stepDesc': u'', u'extraData': u'{"mobile":"14140000004"}', u'canBack': True, u'nextStep': u'InputSMS', u'token': u'03c1281524a0798246148ca5044d2601'}
+[2018-01-31 11:48:55,848] - logger.py] - INFO: -------éç¨éªè¯,è¾å¥ç­ä¿¡éªè¯ç ------
+{'deviceName': 'iPhone 6 Plus', 'funName': 'TRADEPWD', 'auth': u'd960d2a6ddade3929faabd8f210440c5', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'step': u'InputSMS', 'sdkVersion': '1.0.0', 'smsCode': 1111, 'androidInstallChannel': 'defaultbank', 'appVersion': '1.0', 'token': u'03c1281524a0798246148ca5044d2601', 'funType': 'MODIFY', 'clientName': 'ios', 'custId': u'101408226987262754816', 'channel': 'zxyh_shangraobank'}
+&lt;Response [200]&gt;
+{u'resultData': {u'verifyStepList': [{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u4ea4\u6613\u5bc6\u7801', u'stepDesc': u'', u'extraData': None, u'canBack': True, u'nextStep': u'Finish', u'token': u'8ba27737a2f5794385d014d8659c1b64'}]}, u'resultCode': 0, u'resultCtrl': None}
+{u'btnContent': u'\u4e0b\u4e00\u6b65', u'title': u'\u4ea4\u6613\u5bc6\u7801', u'stepDesc': u'', u'extraData': None, u'canBack': True, u'nextStep': u'Finish', u'token': u'8ba27737a2f5794385d014d8659c1b64'}
+[2018-01-31 11:48:55,888] - logger.py] - INFO: -------éç¨éªè¯,è®¾ç½®äº¤æå¯ç ------
+{'deviceName': 'iPhone 6 Plus', 'auth': u'd960d2a6ddade3929faabd8f210440c5', 'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'sdkVersion': '1.0.0', 'androidInstallChannel': 'defaultbank', 'appVersion': '1.0', 'token': u'8ba27737a2f5794385d014d8659c1b64', 'clientName': 'ios', 'newTradePwd': 121314, 'custId': u'101408226987262754816', 'channel': 'zxyh_shangraobank'}
+&lt;Response [200]&gt;
+{u'resultData': None, u'resultCode': 0, u'resultCtrl': None}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='passClass'>
+    <td>testcase.test08_SRCalendar.scheduleInfoAdd</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c7',1)">Detail</a></td>
+</tr>
+
+<tr id='pt7.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test08_SRCalendar</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt7.1')" >
+        pass</a>
+
+    <div id='div_pt7.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt7.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt7.1: [2018-01-31 11:48:55,969] - logger.py] - INFO: å¼å§ç»å½
+-------------
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'forceLogin': 'true', 'value': '14140000004', 'loginPwd': '111111', 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+{u'resultData': {u'needVerify': False, u'custId': u'101408226987262754816', u'verifyToken': None, u'auth': u'87a3ea428af13b70e57c5ff07a682afc', u'jrId': u'$360010000044000000261671'}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+[2018-01-31 11:48:56,062] - logger.py] - INFO: ----è°ç¨å®æ¶è½¬å¥åè¡¨æ¥è¯¢æ¥å£----
+&lt;Response [200]&gt;
+{u'resultData': [], u'resultCode': 0, u'resultCtrl': None}
+------------------------------
+[2018-01-31 11:48:56,098] - logger.py] - INFO: -----è°ç¨å®æ¶è½¬å¥æ·»å æ¥å£-----
+&lt;Response [200]&gt;
+{u'resultData': {u'remark': None, u'transferAmount': None, u'secAccountBankLogo': None, u'bankName': u'\u90ae\u50a8\u94f6\u884c', u'cardNo': u'MTAwMzUyMDAwMDAwMDAwMDk5NzI0MDEyNg==\n', u'transferDay': None, u'afterSecAccountNo': u'5885', u'secAccountBankName': u'\u7535\u5b50\u8d26\u6237', u'bankLogo': u'http://storage.360buyimg.com/jd-wallet-plug-in/PSBC', u'secAccountNo': None, u'secAccountBankCode': u'BOSR', u'bankCode': u'PSBC', u'setDate': None, u'custId': None, u'id': None, u'afterCardNo': u'0001', u'hasCard': u'1'}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+[2018-01-31 11:48:58,759] - logger.py] - INFO: ----è°ç¨å®æ¶è½¬å¥ä¿å­æ¥å£----
+{'remark': '', 'transferAmount': 300, 'cardNo': u'MTAwMzUyMDAwMDAwMDAwMDk5NzI0MDEyNg==\n', 'transferDay': 1, 'sign': '1', 'auth': u'87a3ea428af13b70e57c5ff07a682afc', 'custId': u'101408226987262754816'}
+&lt;Response [200]&gt;
+{u'resultData': {u'cardNo': u'MTAwMTQwMDAwMDAwMDAwMDk5NzM2MDEyNg==\n', u'sendSms': u'1', u'afterMobile': u'0004'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-31 11:48:59,072] - logger.py] - INFO: ----è°ç¨å®æ¶è½¬å¥ç­ä¿¡åéæ¥å£----
+&lt;Response [200]&gt;
+{u'resultData': {u'cardNo': u'MTAwMzUyMDAwMDAwMDAwMDk5NzI0MDEyNg==\n', u'sendSms': None, u'afterMobile': u'0004'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-31 11:48:59,381] - logger.py] - INFO: ----è°ç¨å®æ¶è½¬å¥ç­ä¿¡éªè¯æ¥å£----
+&lt;Response [200]&gt;
+{u'resultData': {u'editFlag': u'0', u'depositAmount': None, u'depositDate': None}, u'resultCode': 0, u'resultCtrl': None}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='passClass'>
+    <td>testcase.test09_delete.Delete</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c8',1)">Detail</a></td>
+</tr>
+
+<tr id='pt8.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test09_delete</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt8.1')" >
+        pass</a>
+
+    <div id='div_pt8.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt8.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt8.1: [2018-01-31 11:48:59,466] - logger.py] - INFO: 开始登录
+-------------
+{'mac': '95a530774abe457daac6b8b2c67550a7', 'deviceName': 'iPhone 6 Plus', 'sdkVersion': '1.0.0', 'deviceId': '95a530774abe457daac6b8b2c67550a7', 'forceLogin': 'true', 'value': '14140000004', 'loginPwd': '111111', 'appVersion': '1.0', 'channel': 'zxyh_shangraobank', 'clientName': 'ios'}
+{u'resultData': {u'needVerify': False, u'custId': u'101408226987262754816', u'verifyToken': None, u'auth': u'2a6cc33712d3746a2b9b4a9c58d6cef0', u'jrId': u'$360010000044000000261671'}, u'resultCode': 0, u'resultCtrl': None}
+&lt;type 'dict'&gt;
+[2018-01-31 11:48:59,573] - logger.py] - INFO: ---------------调用定时转入列表查询接口------------
+&lt;Response [200]&gt;
+{u'resultData': [{u'remark': u'\u81ea\u52a8\u8f6c\u5165', u'transferAmount': u'300.00', u'secAccountBankLogo': None, u'bankName': u'\u90ae\u50a8\u94f6\u884c', u'cardNo': u'MTAwMDI2MDAwMDAwMDAwMDk5Nzg3NTEyNg==\n', u'transferDay': u'1', u'afterSecAccountNo': None, u'secAccountBankName': u'\u4e0a\u9976\u94f6\u884c', u'bankLogo': u'http://storage.360buyimg.com/jd-wallet-plug-in/PSBC', u'secAccountNo': u'5885', u'secAccountBankCode': u'BOSR', u'bankCode': u'PSBC', u'setDate': u'20180201', u'custId': u'101408226987262754816', u'id': u'6385995421', u'afterCardNo': u'0001', u'hasCard': None}], u'resultCode': 0, u'resultCtrl': None}
+------------------------------
+6385995421
+[2018-01-31 11:48:59,615] - logger.py] - INFO: -----------调用定时转入详情接口------------
+&lt;Response [200]&gt;
+{u'resultData': {u'remark': u'\u81ea\u52a8\u8f6c\u5165', u'transferAmount': u'300.00', u'secAccountBankLogo': None, u'bankName': u'\u90ae\u50a8\u94f6\u884c', u'cardNo': u'MTAwODQ0MDAwMDAwMDAwMDk5NzY1ODEyNg==\n', u'editAble': u'1', u'nextTransferDate': u'2018-02-01', u'transferDay': u'1', u'afterSecAccountNo': u'5885', u'secAccountBankName': u'\u7535\u5b50\u8d26\u6237', u'bankLogo': u'http://storage.360buyimg.com/jd-wallet-plug-in/PSBC', u'secAccountNo': None, u'secAccountBankCode': u'BOSR', u'bankCode': u'PSBC', u'setDate': None, u'custId': u'101408226987262754816', u'id': u'6385995421', u'afterCardNo': u'0001', u'hasCard': None}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-31 11:48:59,671] - logger.py] - INFO: ----调用首页转入转出接口----
+{'queryDate': '2018-01-30', 'custId': u'101408226987262754816', 'auth': u'2a6cc33712d3746a2b9b4a9c58d6cef0'}
+&lt;Response [200]&gt;
+{u'resultData': {u'payout': u'0.00', u'totalAssets': u'0.00', u'income': u'0.00'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-31 11:49:04,026] - logger.py] - INFO: ----调用首页记账接口接口----
+&lt;Response [200]&gt;
+{u'resultData': None, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-31 11:49:04,375] - logger.py] - INFO: --------调用定时转入删除接口------------
+&lt;Response [200]&gt;
+{u'resultData': u'0', u'resultCode': 0, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u5220\u9664\u6210\u529f'}}
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='total_row'>
+    <td>Total</td>
+    <td>8</td>
+    <td>8</td>
+    <td>0</td>
+    <td>0</td>
+    <td>&nbsp;</td>
+</tr>
+</table>
+
+<div id='ending'>&nbsp;</div>
+
+</body>
+</html>

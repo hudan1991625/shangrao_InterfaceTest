@@ -1,0 +1,1 @@
+newTradePwd=121314

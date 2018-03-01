@@ -1,0 +1,334 @@
+[2018-01-20 16:22:20,519] - logger.py] - INFO: ¿ª»§µÚÒ»²½,ÉÏ´«Éí·ÝÖ¤Õý·´Ãæ
+[2018-01-20 16:22:20,732] - logger.py] - INFO: ´ÓµÇÂ¼½á¹ûÖÐÈ¡³öµÇÂ¼Ì¬,´òÓ¡authÊÇ67b16ecba0fa907fbbc74289eb264998
+[2018-01-20 16:22:21,022] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:22:21,206] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 16:26:38,467] - logger.py] - INFO: ¿ª»§µÚÒ»²½,ÉÏ´«Éí·ÝÖ¤Õý·´Ãæ
+[2018-01-20 16:26:38,599] - logger.py] - INFO: ´ÓµÇÂ¼½á¹ûÖÐÈ¡³öµÇÂ¼Ì¬,´òÓ¡authÊÇ5a050f778cf7922e6f303e0b743a0461
+[2018-01-20 16:26:38,855] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:27:04,292] - logger.py] - INFO: ¿ª»§µÚÒ»²½,ÉÏ´«Éí·ÝÖ¤Õý·´Ãæ
+[2018-01-20 16:27:04,420] - logger.py] - INFO: ´ÓµÇÂ¼½á¹ûÖÐÈ¡³öµÇÂ¼Ì¬,´òÓ¡authÊÇ312c26d2e953d9af1ea186ca00cdf1f1
+[2018-01-20 16:27:04,671] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:29:58,079] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:29:58,515] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 16:33:33,684] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:33:34,118] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 16:39:19,663] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:39:20,075] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 16:52:20,165] - logger.py] - INFO: ¿ª»§µÚÒ»²½,ÉÏ´«Éí·ÝÖ¤Õý·´Ãæ
+[2018-01-20 16:52:20,289] - logger.py] - INFO: ´ÓµÇÂ¼½á¹ûÖÐÈ¡³öµÇÂ¼Ì¬,´òÓ¡authÊÇ4a28d43689c12d33a3a17a8c7f2d694e
+[2018-01-20 16:52:20,532] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:52:54,601] - logger.py] - INFO: ¿ª»§µÚÒ»²½,ÉÏ´«Éí·ÝÖ¤Õý·´Ãæ
+[2018-01-20 16:52:54,737] - logger.py] - INFO: ´ÓµÇÂ¼½á¹ûÖÐÈ¡³öµÇÂ¼Ì¬,´òÓ¡authÊÇe092249824486d15b370d8c510957591
+[2018-01-20 16:52:55,007] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:53:45,140] - logger.py] - INFO: ¿ª»§µÚÒ»²½,ÉÏ´«Éí·ÝÖ¤Õý·´Ãæ
+[2018-01-20 16:53:45,266] - logger.py] - INFO: ´ÓµÇÂ¼½á¹ûÖÐÈ¡³öµÇÂ¼Ì¬,´òÓ¡authÊÇa6091963a5a4c80b0e63060988eb752f
+[2018-01-20 16:53:45,569] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:54:39,789] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:54:40,211] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 16:55:19,269] - logger.py] - INFO: ¿ª»§µÚÒ»²½,ÉÏ´«Éí·ÝÖ¤Õý·´Ãæ
+[2018-01-20 16:55:19,420] - logger.py] - INFO: ´ÓµÇÂ¼½á¹ûÖÐÈ¡³öµÇÂ¼Ì¬,´òÓ¡authÊÇ874723ecc53c8df895ed2e557ef9e593
+[2018-01-20 16:55:19,713] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:57:05,769] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:57:06,244] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 16:57:31,398] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:57:31,938] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 16:58:22,369] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 16:58:22,783] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 17:18:47,437] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 17:18:47,846] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 17:20:02,983] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 17:20:03,434] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 17:20:11,877] - logger.py] - INFO: µ÷ÓÃ°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿Ú
+[2018-01-20 17:20:11,953] - logger.py] - INFO: °ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿ÚÍ¨¹ý
+[2018-01-20 17:21:08,151] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth,´«ÈëÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú
+[2018-01-20 17:21:08,588] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 17:21:08,595] - logger.py] - INFO: µ÷ÓÃ°ó¿¨·¢¶ÌÐÅ½Ó¿Ú
+[2018-01-20 17:21:12,536] - logger.py] - INFO: °ó¿¨·¢¶ÌÐÅ½Ó¿ÚÍ¨¹ý
+[2018-01-20 17:21:12,546] - logger.py] - INFO: µ÷ÓÃ°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿Ú
+[2018-01-20 17:21:12,621] - logger.py] - INFO: °ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿ÚÍ¨¹ý
+[2018-01-20 17:26:35,520] - logger.py] - INFO: Í¨¹ýµÇÂ¼»ñÈ¡auth
+[2018-01-20 17:26:35,648] - logger.py] - INFO: µÇÂ¼³É¹¦£¬»ñÈ¡auth
+[2018-01-20 17:26:35,654] - logger.py] - INFO: µ÷ÓÃ¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú¿ªÊ¼£¬»ñÈ¡token
+[2018-01-20 17:26:35,927] - logger.py] - INFO: ¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú·µ»Ø³É¹¦
+[2018-01-20 17:26:35,934] - logger.py] - INFO: µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú¿ªÊ¼
+[2018-01-20 17:26:35,992] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 17:26:35,996] - logger.py] - INFO: µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿ÚÍ¨¹ý
+[2018-01-20 17:26:36,002] - logger.py] - INFO: µ÷ÓÃ°ó¿¨·¢¶ÌÐÅ½Ó¿Ú
+[2018-01-20 17:26:38,591] - logger.py] - INFO: °ó¿¨·¢¶ÌÐÅ½Ó¿ÚÍ¨¹ý
+[2018-01-20 17:26:38,595] - logger.py] - INFO: µ÷ÓÃ°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿Ú
+[2018-01-20 17:26:38,668] - logger.py] - INFO: °ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿ÚÍ¨¹ý
+[2018-01-20 17:38:04,546] - logger.py] - INFO: ---µ÷ÓÃµÇÂ¼»ñÈ¡auth¿ªÊ¼---
+[2018-01-20 17:38:04,727] - logger.py] - INFO: ---µÇÂ¼³É¹¦---
+[2018-01-20 17:38:04,734] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú¿ªÊ¼£¬»ñÈ¡token---
+[2018-01-20 17:38:05,012] - logger.py] - INFO: ---¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú·µ»Ø³É¹¦---
+[2018-01-20 17:38:05,029] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:38:05,098] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 17:38:05,102] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:38:05,111] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨·¢¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:38:09,842] - logger.py] - INFO: ----°ó¿¨·¢¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:38:09,848] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:38:09,927] - logger.py] - INFO: ---°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:38:09,933] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§½Ó¿Ú¿ªÊ¼-----
+[2018-01-20 17:39:18,776] - logger.py] - INFO: ---µ÷ÓÃµÇÂ¼»ñÈ¡auth¿ªÊ¼---
+[2018-01-20 17:39:18,904] - logger.py] - INFO: ---µÇÂ¼³É¹¦---
+[2018-01-20 17:39:18,910] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú¿ªÊ¼£¬»ñÈ¡token---
+[2018-01-20 17:39:19,150] - logger.py] - INFO: ---¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú·µ»Ø³É¹¦---
+[2018-01-20 17:39:19,154] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:39:19,209] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 17:39:19,213] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:39:19,217] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨·¢¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:39:21,694] - logger.py] - INFO: ----°ó¿¨·¢¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:39:21,700] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:39:21,778] - logger.py] - INFO: ---°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:39:21,783] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§½Ó¿Ú¿ªÊ¼-----
+[2018-01-20 17:40:42,529] - logger.py] - INFO: ---µ÷ÓÃµÇÂ¼»ñÈ¡auth¿ªÊ¼---
+[2018-01-20 17:40:42,673] - logger.py] - INFO: ---µÇÂ¼³É¹¦---
+[2018-01-20 17:40:42,681] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú¿ªÊ¼£¬»ñÈ¡token---
+[2018-01-20 17:40:42,960] - logger.py] - INFO: ---¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú·µ»Ø³É¹¦---
+[2018-01-20 17:40:42,976] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:40:43,053] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 17:40:43,062] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:40:43,071] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨·¢¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:40:45,581] - logger.py] - INFO: ----°ó¿¨·¢¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:40:45,591] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:40:45,667] - logger.py] - INFO: ---°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:40:45,673] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§½Ó¿Ú¿ªÊ¼-----
+[2018-01-20 17:48:10,674] - logger.py] - INFO: ---µ÷ÓÃµÇÂ¼»ñÈ¡auth¿ªÊ¼---
+[2018-01-20 17:48:10,819] - logger.py] - INFO: ---µÇÂ¼³É¹¦---
+[2018-01-20 17:48:10,826] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú¿ªÊ¼£¬»ñÈ¡token---
+[2018-01-20 17:48:11,130] - logger.py] - INFO: ---¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú·µ»Ø³É¹¦---
+[2018-01-20 17:48:11,134] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:48:11,190] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 17:48:11,197] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:48:11,203] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨·¢¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:48:13,796] - logger.py] - INFO: ----°ó¿¨·¢¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:48:13,808] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:48:13,914] - logger.py] - INFO: ---°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:48:13,924] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§½Ó¿Ú¿ªÊ¼-----
+[2018-01-20 17:52:09,040] - logger.py] - INFO: ---µ÷ÓÃµÇÂ¼»ñÈ¡auth¿ªÊ¼---
+[2018-01-20 17:52:09,164] - logger.py] - INFO: ---µÇÂ¼³É¹¦---
+[2018-01-20 17:52:09,171] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú¿ªÊ¼£¬»ñÈ¡token---
+[2018-01-20 17:52:09,437] - logger.py] - INFO: ---¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú·µ»Ø³É¹¦---
+[2018-01-20 17:52:09,444] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:52:09,538] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 17:52:09,551] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:52:09,559] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨·¢¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:52:12,789] - logger.py] - INFO: ----°ó¿¨·¢¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:52:12,798] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:52:12,872] - logger.py] - INFO: ---°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:52:12,878] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§½Ó¿Ú¿ªÊ¼-----
+[2018-01-20 17:53:45,812] - logger.py] - INFO: ---µ÷ÓÃµÇÂ¼»ñÈ¡auth¿ªÊ¼---
+[2018-01-20 17:53:45,937] - logger.py] - INFO: ---µÇÂ¼³É¹¦---
+[2018-01-20 17:53:45,947] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú¿ªÊ¼£¬»ñÈ¡token---
+[2018-01-20 17:53:46,193] - logger.py] - INFO: ---¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú·µ»Ø³É¹¦---
+[2018-01-20 17:53:46,197] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:53:46,259] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 17:53:46,265] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:53:46,270] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨·¢¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:53:48,802] - logger.py] - INFO: ----°ó¿¨·¢¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:53:48,813] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:53:48,891] - logger.py] - INFO: ---°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:53:48,901] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§½Ó¿Ú¿ªÊ¼-----
+[2018-01-20 17:55:11,145] - logger.py] - INFO: ---µ÷ÓÃµÇÂ¼»ñÈ¡auth¿ªÊ¼---
+[2018-01-20 17:55:11,270] - logger.py] - INFO: ---µÇÂ¼³É¹¦---
+[2018-01-20 17:55:11,279] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú¿ªÊ¼£¬»ñÈ¡token---
+[2018-01-20 17:55:11,516] - logger.py] - INFO: ---¿ª»§Éí·ÝÑéÖ¤½Ó¿Ú·µ»Ø³É¹¦---
+[2018-01-20 17:55:11,523] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:55:11,579] - logger.py] - INFO: ´òÓ¡ÒøÐÐ¿¨ÀàÐÍºÍÒøÐÐ±àÂëDC CMB:
+[2018-01-20 17:55:11,585] - logger.py] - INFO: ---µ÷ÓÃÅÐ¶ÏÒøÐÐ¿¨ºÅÊÇ·ñÖ§³ÖÖ¸¶¨ÒµÎñ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:55:11,595] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨·¢¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:55:16,684] - logger.py] - INFO: ----°ó¿¨·¢¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:55:16,690] - logger.py] - INFO: ---µ÷ÓÃ°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿Ú¿ªÊ¼---
+[2018-01-20 17:55:16,762] - logger.py] - INFO: ---°ó¿¨ÑéÖ¤¶ÌÐÅ½Ó¿ÚÍ¨¹ý---
+[2018-01-20 17:55:16,767] - logger.py] - INFO: ---µ÷ÓÃ¿ª»§½Ó¿Ú¿ªÊ¼-----
+[2018-01-20 17:59:39,515] - logger.py] - INFO: æ‰“å°dataçš„å€¼:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-20 17:59:39,563] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'1oHMHnlZXYtVWSVF8R2p'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 17:59:39,569] - logger.py] - INFO: ´òÓ¡tokenµÄÖµ£º1oHMHnlZXYtVWSVF8R2p
+[2018-01-20 17:59:39,654] - logger.py] - INFO: ------end!--------
+[2018-01-20 18:09:33,061] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:09:33,460] - logger.py] - INFO: ×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦£¬´òÓ¡·µ»Ø½á¹û{u'resultData': None, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 18:09:33,469] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:09:33,519] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'PVrEgrzL3Jg7GDY9Bohw'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 18:09:33,528] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºPVrEgrzL3Jg7GDY9Bohw
+[2018-01-20 18:09:33,533] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 18:10:34,540] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:10:34,884] - logger.py] - INFO: ×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦£¬´òÓ¡·µ»Ø½á¹û{u'resultData': None, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 18:10:34,890] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:10:34,934] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'WC2C4WwA67sspv5EdbQX'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 18:10:34,940] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºWC2C4WwA67sspv5EdbQX
+[2018-01-20 18:10:34,946] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 18:12:39,226] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:12:39,568] - logger.py] - INFO: ×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦£¬´òÓ¡·µ»Ø½á¹û{u'resultData': None, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 18:12:39,575] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:12:39,624] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'4ACmvTKxm8b33oYs9Rhg'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 18:12:39,630] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£º4ACmvTKxm8b33oYs9Rhg
+[2018-01-20 18:12:39,635] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 18:19:18,706] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:19:19,049] - logger.py] - INFO: ×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦£¬´òÓ¡·µ»Ø½á¹û{u'resultData': None, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 18:19:19,056] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:19:19,111] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'7w78TihvwKahUN4atRNI'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 18:19:19,118] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£º7w78TihvwKahUN4atRNI
+[2018-01-20 18:19:19,125] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 18:22:16,055] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:22:16,397] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 18:22:16,404] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:22:16,461] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'Efw1jdtF3mn6ESnUX7Yt'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 18:22:16,476] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºEfw1jdtF3mn6ESnUX7Yt
+[2018-01-20 18:22:16,483] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 18:22:43,275] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:22:43,569] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 18:22:43,576] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:22:43,624] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'w08i3qGKGkAvIIaCKVpn'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 18:22:43,630] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºw08i3qGKGkAvIIaCKVpn
+[2018-01-20 18:22:43,638] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 18:25:12,250] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:25:12,618] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 18:25:12,624] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:25:12,690] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'c1ljETiVQdTBjmK9FC2h'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 18:25:12,696] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºc1ljETiVQdTBjmK9FC2h
+[2018-01-20 18:25:12,701] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 18:26:38,013] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:26:38,332] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 18:26:38,341] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 18:26:38,390] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'WXLsNnX3pNeEWYItDpsE'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 18:26:38,397] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºWXLsNnX3pNeEWYItDpsE
+[2018-01-20 18:26:38,404] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:22:09,265] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:22:09,575] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:22:09,582] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:22:09,628] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'Sr9C2yZ4kF5kWL5fj0K3'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:22:09,634] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºSr9C2yZ4kF5kWL5fj0K3
+[2018-01-20 19:22:09,641] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:26:01,559] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:26:01,904] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:26:01,910] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:28:32,911] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:28:33,234] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:28:33,240] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:30:31,528] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:30:31,904] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:30:31,911] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:30:31,979] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'Z8pU9mxiULX6OZUexjpd'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:30:31,984] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºZ8pU9mxiULX6OZUexjpd
+[2018-01-20 19:30:31,990] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:32:14,677] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:32:14,986] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:32:14,993] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:32:15,033] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'GzseWlRKLG7AE3QhSM3n'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:32:15,039] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºGzseWlRKLG7AE3QhSM3n
+[2018-01-20 19:32:15,046] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:34:14,036] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:34:14,359] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:34:14,365] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:34:14,420] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'RtaixXFgEdnYonKBPi58'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:34:14,427] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºRtaixXFgEdnYonKBPi58
+[2018-01-20 19:34:14,438] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:34:56,325] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:34:56,660] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:34:56,671] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:34:56,729] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'JJI3HbPfMR7SlYKPngIq'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:34:56,734] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºJJI3HbPfMR7SlYKPngIq
+[2018-01-20 19:34:56,740] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:36:45,098] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:36:45,454] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:36:45,467] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:36:45,543] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'KHDGpJAfV8o4uS5kFp0S'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:36:45,552] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºKHDGpJAfV8o4uS5kFp0S
+[2018-01-20 19:36:45,559] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:38:29,224] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:38:29,584] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:38:29,592] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:38:29,637] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'MKMaMp74zckU2xJ0Vj2F'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:38:29,644] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºMKMaMp74zckU2xJ0Vj2F
+[2018-01-20 19:38:29,651] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:38:52,385] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:38:52,690] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:38:52,697] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:38:52,743] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'FCopjQTr6LPYJMQXOsww'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:38:52,750] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºFCopjQTr6LPYJMQXOsww
+[2018-01-20 19:38:52,755] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:40:14,122] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:40:14,513] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:40:14,519] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:40:14,579] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'JgUlO2w0QKLxlAeB6iZt'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:40:14,588] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:42:36,423] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:42:36,861] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:42:36,871] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:42:36,917] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'TjKoW1fP7GKsMUVDYr4b'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:42:36,923] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:44:29,032] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:44:29,421] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:44:29,427] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:44:29,515] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'lBxiARfiFbf8yL561yJu'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:44:29,523] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:44:47,223] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:44:47,563] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 19:44:47,569] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:44:47,631] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'GFUx9P5wpRkQOUJgHWSV'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:44:47,638] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:48:04,230] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'BZa2eFyAUGyOGCZiyAm3'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:48:04,230] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:48:04,312] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:48:04,378] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'7lFDw2CtZ1hgdvNfUdt6'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:48:25,875] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:48:26,250] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:48:26,318] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'SXlDv0kFyR8spOkGGJ54'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:48:26,384] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'Qqq3XOZmJaOCjtNL1WXW'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:48:26,390] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:49:30,671] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:49:31,065] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:49:31,134] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'GDaCQ5wPdwPen17Ym8nR'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:49:31,207] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'U6i2blEk83YBhk3692he'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:49:31,213] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:50:08,742] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:50:09,058] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:50:09,108] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'H6YLtB7KxEM7iaDAItnQ'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:50:09,170] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'dDUHefhiVXL4RkhJQkmc'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:50:09,177] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:51:32,214] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:51:32,569] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:51:32,638] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'Q2r5ZwYjiJobBs2kY9y8'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:51:32,684] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'wO01E3hp9Y9UJOeWKp4o'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:51:32,691] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 19:58:49,980] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:58:50,313] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 19:58:50,368] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'eeakWlmZEXrg0kpTyIkm'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:58:50,411] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'89fhHHPuEWVUKfifplX1'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 19:58:50,417] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 20:03:39,753] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:03:40,138] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:03:40,190] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'aChpLyHOCBm0bX8gE2wi'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 20:03:40,276] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'LyCKZGvbs8ewWf8OdYVk'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 20:03:40,283] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 20:06:28,801] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:06:29,194] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 20:06:29,200] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:07:00,930] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:07:01,282] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 20:07:01,286] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:07:01,334] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'Sos04PthoO5W1mKy0TIa'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 20:07:01,342] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºSos04PthoO5W1mKy0TIa
+[2018-01-20 20:07:01,349] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 20:09:21,111] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:09:21,486] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 20:09:21,500] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:09:21,558] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'q7xE2PZhp1wfEQDUwPeI'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 20:09:21,565] - logger.py] - INFO: ¶ÌÐÅÑéÖ¤ÂëÑéÖ¤³É¹¦£¬´òÓ¡tokenµÄÖµ£ºq7xE2PZhp1wfEQDUwPeI
+[2018-01-20 20:09:21,571] - logger.py] - INFO: ---ÉèÖÃµÇÂ¼ÃÜÂë¿ªÊ¼---
+[2018-01-20 20:09:41,391] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:09:41,707] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 20:09:41,714] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:09:41,808] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'qSCNPzAoQwV6jRhE3thd'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 20:11:50,973] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:11:51,312] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 20:11:51,319] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:11:51,378] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'cFyVNNyCEXfxFPxnTkQ6'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-20 20:12:48,483] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:12:48,559] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 20:12:48,568] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:12:48,638] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': None, u'resultCode': 1, u'resultCtrl': {u'dialogTitle': None, u'dialogContent': None, u'type': u'toast', u'dialogBtnList': None, u'toastValue': u'\u624b\u673a\u53f7\u7801\u5df2\u6ce8\u518c'}}
+[2018-01-20 20:13:04,931] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:13:05,266] - logger.py] - INFO: ---×¢²áÊäÈëÊÖ»úºÅ³É¹¦£¬·¢ËÍ¶ÌÐÅÑéÖ¤Âë³É¹¦---
+[2018-01-20 20:13:05,273] - logger.py] - INFO: ---ÑéÖ¤¶ÌÐÅÑéÖ¤Âë¿ªÊ¼---
+[2018-01-20 20:13:05,319] - logger.py] - INFO: ´òÓ¡r1.jsonµÄÖµ£º{u'resultData': {u'token': u'jlTu5r1z6gugYA8IDYWz'}, u'resultCode': 0, u'resultCtrl': None}

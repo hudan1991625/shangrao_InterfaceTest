@@ -1,0 +1,8 @@
+[2018-01-17 22:36:55,792] - logger.py] - INFO: 打印data的值:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-17 22:36:55,798] - logger.py] - INFO: ------pass!---------
+[2018-01-17 22:37:25,091] - logger.py] - INFO: 打印data的值:{"resultCode":0,"resultData":null,"resultCtrl":null}
+[2018-01-17 22:37:25,095] - logger.py] - INFO: ------pass!---------
+[2018-01-17 22:37:25,134] - logger.py] - INFO: 打印r1.json的值：{u'resultData': {u'token': u'g0HDOclRZj058Tzq63GZ'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-17 22:37:25,210] - logger.py] - INFO: 打印token的值：g0HDOclRZj058Tzq63GZ
+[2018-01-17 22:37:25,242] - logger.py] - INFO: 打印r1.json的值：{u'resultData': {u'token': u'F8d30bZNBgj1qFoP3yBx'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-17 22:37:25,250] - logger.py] - INFO: 打印token的值：F8d30bZNBgj1qFoP3yBx

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Appium.iml" filepath="$PROJECT_DIR$/.idea/Appium.iml" />
+      <module fileurl="file://E:/Interface_shangrao/.idea/Interface_shangrao.iml" filepath="E:/Interface_shangrao/.idea/Interface_shangrao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dbank.iml" filepath="$PROJECT_DIR$/.idea/dbank.iml" />
+      <module fileurl="file://E:/python/directbank_sr/.idea/directbank_sr.iml" filepath="E:/python/directbank_sr/.idea/directbank_sr.iml" />
+      <module fileurl="file://E:/mine/python/yoyojiekou/.idea/yoyojiekou.iml" filepath="E:/mine/python/yoyojiekou/.idea/yoyojiekou.iml" />
+    </modules>
+  </component>
+</project>

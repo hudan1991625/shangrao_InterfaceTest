@@ -1,0 +1,7 @@
+[2018-01-22 22:26:28,565] - logger.py] - INFO: ---注册输入手机号，发送短信验证码开始---
+[2018-01-22 22:26:29,391] - logger.py] - INFO: ---注册输入手机号成功，发送短信验证码成功---
+[2018-01-22 22:26:29,401] - logger.py] - INFO: ---验证短信验证码开始---
+[2018-01-22 22:26:29,443] - logger.py] - INFO: 打印r1.json的值：{u'resultData': {u'token': u'mM4JJ2CfeMCCJCbAKt2Z'}, u'resultCode': 0, u'resultCtrl': None}
+[2018-01-22 22:26:29,450] - logger.py] - INFO: 短信验证码验证成功，打印token的值：mM4JJ2CfeMCCJCbAKt2Z
+[2018-01-22 22:26:29,459] - logger.py] - INFO: ---设置登录密码开始---
+[2018-01-22 22:26:29,594] - logger.py] - INFO: 设置登录密码成功，注册完成---
